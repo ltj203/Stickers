@@ -18,6 +18,18 @@
 		CE3AC16D16E2BAC800A5218D /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CE3AC16C16E2BAC800A5218D /* Default-568h@2x.png */; };
 		CE3AC17016E2BAC800A5218D /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE3AC16E16E2BAC800A5218D /* MainStoryboard.storyboard */; };
 		CE3AC17316E2BAC800A5218D /* StickersViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE3AC17216E2BAC800A5218D /* StickersViewController.m */; };
+		CE3AC18F16E2BFBD00A5218D /* Util.m in Sources */ = {isa = PBXBuildFile; fileRef = CE3AC18E16E2BFBD00A5218D /* Util.m */; };
+		CE3AC19A16E2C94B00A5218D /* smile1.png in Resources */ = {isa = PBXBuildFile; fileRef = CE3AC19016E2C94B00A5218D /* smile1.png */; };
+		CE3AC19B16E2C94B00A5218D /* smile2.png in Resources */ = {isa = PBXBuildFile; fileRef = CE3AC19116E2C94B00A5218D /* smile2.png */; };
+		CE3AC19C16E2C94B00A5218D /* smile3.png in Resources */ = {isa = PBXBuildFile; fileRef = CE3AC19216E2C94B00A5218D /* smile3.png */; };
+		CE3AC19D16E2C94B00A5218D /* smile4.png in Resources */ = {isa = PBXBuildFile; fileRef = CE3AC19316E2C94B00A5218D /* smile4.png */; };
+		CE3AC19E16E2C94B00A5218D /* smile5.png in Resources */ = {isa = PBXBuildFile; fileRef = CE3AC19416E2C94B00A5218D /* smile5.png */; };
+		CE3AC19F16E2C94B00A5218D /* smile6.png in Resources */ = {isa = PBXBuildFile; fileRef = CE3AC19516E2C94B00A5218D /* smile6.png */; };
+		CE3AC1A016E2C94B00A5218D /* smile7.png in Resources */ = {isa = PBXBuildFile; fileRef = CE3AC19616E2C94B00A5218D /* smile7.png */; };
+		CE3AC1A116E2C94B00A5218D /* smile8.png in Resources */ = {isa = PBXBuildFile; fileRef = CE3AC19716E2C94B00A5218D /* smile8.png */; };
+		CE3AC1A216E2C94B00A5218D /* smile9.png in Resources */ = {isa = PBXBuildFile; fileRef = CE3AC19816E2C94B00A5218D /* smile9.png */; };
+		CE3AC1A316E2C94B00A5218D /* smile10.png in Resources */ = {isa = PBXBuildFile; fileRef = CE3AC19916E2C94B00A5218D /* smile10.png */; };
+		CE75234916E2E6CC00052D28 /* trash.png in Resources */ = {isa = PBXBuildFile; fileRef = CE75234816E2E6CC00052D28 /* trash.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +49,19 @@
 		CE3AC16F16E2BAC800A5218D /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		CE3AC17116E2BAC800A5218D /* StickersViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StickersViewController.h; sourceTree = "<group>"; };
 		CE3AC17216E2BAC800A5218D /* StickersViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StickersViewController.m; sourceTree = "<group>"; };
+		CE3AC18D16E2BFBD00A5218D /* Util.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Util.h; sourceTree = "<group>"; };
+		CE3AC18E16E2BFBD00A5218D /* Util.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Util.m; sourceTree = "<group>"; };
+		CE3AC19016E2C94B00A5218D /* smile1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = smile1.png; path = Stickers/smile1.png; sourceTree = "<group>"; };
+		CE3AC19116E2C94B00A5218D /* smile2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = smile2.png; path = Stickers/smile2.png; sourceTree = "<group>"; };
+		CE3AC19216E2C94B00A5218D /* smile3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = smile3.png; path = Stickers/smile3.png; sourceTree = "<group>"; };
+		CE3AC19316E2C94B00A5218D /* smile4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = smile4.png; path = Stickers/smile4.png; sourceTree = "<group>"; };
+		CE3AC19416E2C94B00A5218D /* smile5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = smile5.png; path = Stickers/smile5.png; sourceTree = "<group>"; };
+		CE3AC19516E2C94B00A5218D /* smile6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = smile6.png; path = Stickers/smile6.png; sourceTree = "<group>"; };
+		CE3AC19616E2C94B00A5218D /* smile7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = smile7.png; path = Stickers/smile7.png; sourceTree = "<group>"; };
+		CE3AC19716E2C94B00A5218D /* smile8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = smile8.png; path = Stickers/smile8.png; sourceTree = "<group>"; };
+		CE3AC19816E2C94B00A5218D /* smile9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = smile9.png; path = Stickers/smile9.png; sourceTree = "<group>"; };
+		CE3AC19916E2C94B00A5218D /* smile10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = smile10.png; path = Stickers/smile10.png; sourceTree = "<group>"; };
+		CE75234816E2E6CC00052D28 /* trash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = trash.png; path = Stickers/trash.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +81,17 @@
 		CE3AC14A16E2BAC800A5218D = {
 			isa = PBXGroup;
 			children = (
+				CE3AC19016E2C94B00A5218D /* smile1.png */,
+				CE3AC19116E2C94B00A5218D /* smile2.png */,
+				CE3AC19216E2C94B00A5218D /* smile3.png */,
+				CE3AC19316E2C94B00A5218D /* smile4.png */,
+				CE3AC19416E2C94B00A5218D /* smile5.png */,
+				CE3AC19516E2C94B00A5218D /* smile6.png */,
+				CE3AC19616E2C94B00A5218D /* smile7.png */,
+				CE3AC19716E2C94B00A5218D /* smile8.png */,
+				CE3AC19816E2C94B00A5218D /* smile9.png */,
+				CE3AC19916E2C94B00A5218D /* smile10.png */,
+				CE75234816E2E6CC00052D28 /* trash.png */,
 				CE3AC15C16E2BAC800A5218D /* Stickers */,
 				CE3AC15516E2BAC800A5218D /* Frameworks */,
 				CE3AC15416E2BAC800A5218D /* Products */,
@@ -88,6 +124,8 @@
 				CE3AC16E16E2BAC800A5218D /* MainStoryboard.storyboard */,
 				CE3AC17116E2BAC800A5218D /* StickersViewController.h */,
 				CE3AC17216E2BAC800A5218D /* StickersViewController.m */,
+				CE3AC18D16E2BFBD00A5218D /* Util.h */,
+				CE3AC18E16E2BFBD00A5218D /* Util.m */,
 				CE3AC15D16E2BAC800A5218D /* Supporting Files */,
 			);
 			path = Stickers;
@@ -164,6 +202,17 @@
 				CE3AC16B16E2BAC800A5218D /* Default@2x.png in Resources */,
 				CE3AC16D16E2BAC800A5218D /* Default-568h@2x.png in Resources */,
 				CE3AC17016E2BAC800A5218D /* MainStoryboard.storyboard in Resources */,
+				CE3AC19A16E2C94B00A5218D /* smile1.png in Resources */,
+				CE3AC19B16E2C94B00A5218D /* smile2.png in Resources */,
+				CE3AC19C16E2C94B00A5218D /* smile3.png in Resources */,
+				CE3AC19D16E2C94B00A5218D /* smile4.png in Resources */,
+				CE3AC19E16E2C94B00A5218D /* smile5.png in Resources */,
+				CE3AC19F16E2C94B00A5218D /* smile6.png in Resources */,
+				CE3AC1A016E2C94B00A5218D /* smile7.png in Resources */,
+				CE3AC1A116E2C94B00A5218D /* smile8.png in Resources */,
+				CE3AC1A216E2C94B00A5218D /* smile9.png in Resources */,
+				CE3AC1A316E2C94B00A5218D /* smile10.png in Resources */,
+				CE75234916E2E6CC00052D28 /* trash.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -177,6 +226,7 @@
 				CE3AC16316E2BAC800A5218D /* main.m in Sources */,
 				CE3AC16716E2BAC800A5218D /* StickersAppDelegate.m in Sources */,
 				CE3AC17316E2BAC800A5218D /* StickersViewController.m in Sources */,
+				CE3AC18F16E2BFBD00A5218D /* Util.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -299,6 +349,7 @@
 				CE3AC17816E2BAC800A5218D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

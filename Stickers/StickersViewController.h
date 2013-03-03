@@ -8,6 +8,13 @@
 
 #import <UIKit/UIKit.h>
 
-@interface StickersViewController : UIViewController
+@interface StickersViewController : UIViewController {
+    UIImageView *drawImageView;
+    NSMutableArray *stickerArray;
+    UIImage *currentSticker;
+    UIImageView *stickerToMove;
+    NSMutableArray *stickersPlaced;
+    UIImageView *trash;
+}
 
 @end
